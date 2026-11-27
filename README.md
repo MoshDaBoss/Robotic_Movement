@@ -1,5 +1,5 @@
 # Robotic_Movement
-Take the myostatic and make it movement
+Take the myoelectric and make it movement
 
 ## Non-actuating control core
 
